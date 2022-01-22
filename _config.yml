@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+show_downloads: false
+title: ixakblt
+description: ixHayabusa
+# Analytics
+analytics:
+  provider               : "google-universal" 
+    tracking_id          : "G-9YYSV3F7CY" 
+    anonymize_ip         : true
+
